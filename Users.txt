@@ -1,0 +1,3 @@
+Edison,Rivera,098145454,Machachi,123456
+Estela,Chipantasi,0697897512,Seminario Mayor,aabbcc
+Juan,Urrutia,098989811,La Mascota,842659
